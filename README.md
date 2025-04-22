@@ -15,7 +15,7 @@ This repository contains files related to an image classification and face detec
 | `number_person_file.json`    | JSON file containing data about numbers/persons (likely for classification).|
 | `README.md`                  | Project documentation (this file).                                          |
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Prerequisites**:
    - Python 3.x

@@ -4,7 +4,7 @@
 
 This repository contains files related to an image classification and face detection system. Below is an overview of the included files and their purposes.
 
-## 📁 Repository Structure
+## Repository Structure
 
 | File/Folder                  | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ This repository contains files related to an image classification and face detec
    - Use the `.pkl` model file for predictions in your application.
    - The Haar Cascade XML files can be used with OpenCV for real-time face/eye detection.
 
-## 🛠️ Dependencies
+## Dependencies
 
 Install required packages:
 ```bash

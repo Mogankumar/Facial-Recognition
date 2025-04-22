@@ -1,7 +1,5 @@
 # Facial-Recognition
 
-# Image Classification and Face Detection Project
-
 This repository contains files related to an image classification and face detection system. Below is an overview of the included files and their purposes.
 
 ## Repository Structure
